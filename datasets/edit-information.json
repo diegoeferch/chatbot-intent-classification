@@ -1,0 +1,302 @@
+[
+  {
+    "message": "I need to update my shipping address.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you help me change my email address on file?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to update my contact number in your system.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I edit my billing address?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my name in my account.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can I update my payment method?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to modify my profile picture.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Is there a way to edit my subscription details?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to change my password.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I update my preferences in the app?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to edit my delivery instructions.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you guide me on editing my profile bio?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to change my username on your platform.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I update my dietary preferences?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to modify my notification settings.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you assist me in changing my subscription plan?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to update my product review.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I edit my contact information in the app?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to change my payment frequency.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you help me edit my membership details?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to update my vehicle information.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I edit my account settings?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to change my subscription start date.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can I update my order preferences?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to modify my product rating.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I edit my communication preferences?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my account status.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you assist me in updating my subscription address?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to edit my payment history.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I change my delivery schedule?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to update my insurance details.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you guide me on editing my contact preferences?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my subscription renewal date.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I edit my billing cycle?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to update my product delivery date.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can I change my account type?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to modify my account security settings.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I edit my shipping method?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my subscription preferences.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you assist me in updating my payment gateway?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to edit my product quantity.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I change my account verification details?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to update my subscription payment method.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you guide me on editing my subscription preferences?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to modify my product delivery time.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I edit my payment card information?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to change my account contact details.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can I update my subscription quantity?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to edit my account notification preferences.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I modify my account billing details?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my subscription shipping address.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you assist me in updating my product preferences?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to edit my subscription start time.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I change my account password?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to update my subscription renewal frequency.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you guide me on editing my product reviews?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to modify my account security questions.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I edit my subscription cancellation settings?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to change my account profile picture.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can I update my subscription end date?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to edit my account notification preferences.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I modify my subscription billing cycle?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my subscription frequency.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you assist me in updating my product delivery method?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to edit my account contact information.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I change my subscription start date?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to update my account privacy settings.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can you guide me on editing my subscription payment history?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to modify my account preferences.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How can I edit my subscription contact details?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I'd like to change my subscription renewal method.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "Can I update my account billing address?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I need to edit my account security settings.",
+    "intent": "editInformation"
+  },
+  {
+    "message": "How do I modify my subscription cancellation date?",
+    "intent": "editInformation"
+  },
+  {
+    "message": "I want to change my subscription delivery frequency.",
+    "intent": "editInformation"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "message": "Hi there!",
+    "intent": "greeting"
+  },
+  {
+    "message": "I'd like to create a support ticket for my issue.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you please generate a ticket for my problem?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need to follow up on my case. Can you open a ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is it possible to create a support ticket for this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to ensure my concern is documented. Please create a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can I request a support ticket for this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to have a ticket number for this conversation.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to create a ticket for further assistance?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure this issue is properly tracked. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a support ticket on my behalf?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd appreciate it if you could open a ticket for me.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I think it's best if I have a ticket for this. Can you create one?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to keep a record of this conversation. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to request a ticket for follow-up?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need a support ticket for my issue. Can you help with that?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you initiate the process of creating a support ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to create a case for this matter. Please generate a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is it possible to create a ticket for tracking this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to escalate this issue. Please open a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a ticket so I can check the status later?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to have a ticket number to refer to in the future.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to create a ticket for this specific issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure this issue doesn't get lost. Please create a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a support ticket to document this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd appreciate it if you could open a ticket for further assistance.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I think it's best to have a ticket for this. Can you create one?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to keep a record of this conversation. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to request a ticket for follow-up?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need a support ticket for my issue. Can you help with that?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you initiate the process of creating a support ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to create a case for this matter. Please generate a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is it possible to create a ticket for tracking this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to escalate this issue. Please open a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a ticket so I can check the status later?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to have a ticket number to refer to in the future.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to create a ticket for this specific issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure this issue doesn't get lost. Please create a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a support ticket to document this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd appreciate it if you could open a ticket for further assistance.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I think it's best to have a ticket for this. Can you create one?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to keep a record of this conversation. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to request a ticket for follow-up?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need a support ticket for my issue. Can you help with that?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you initiate the process of creating a support ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to create a case for this matter. Please generate a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is it possible to create a ticket for tracking this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to escalate this issue. Please open a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a ticket so I can check the status later?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to have a ticket number to refer to in the future.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to create a ticket for this specific issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure this issue doesn't get lost. Please create a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a support ticket to document this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd appreciate it if you could open a ticket for further assistance.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I think it's best to have a ticket for this. Can you create one?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to keep a record of this conversation. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to request a ticket for follow-up?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need a support ticket for my issue. Can you help with that?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you initiate the process of creating a support ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to create a case for this matter. Please generate a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is it possible to create a ticket for tracking this issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to escalate this issue. Please open a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you create a ticket so I can check the status later?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to have a ticket number to refer to in the future.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to create a ticket for this specific issue?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure this issue doesn't get lost. Please create a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Can you help me with this issue? I think it's time to create a ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've been facing this problem for a while now. Let's create a ticket for it.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need this issue resolved ASAP. Should we start a ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I appreciate your help, but I want to ensure this issue is addressed thoroughly. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'm concerned about the recurring nature of this issue. A ticket might be a good idea.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've followed your suggestions, but the issue persists. It's time for a support ticket.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to track the progress on this issue. Let's create a ticket for it.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "Is there a way to ensure a swift resolution? Creating a ticket might help.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure I'm informed of any updates regarding this issue. Open a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've shared all the details, but the issue is still unresolved. Time to create a ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've encountered a similar problem in the past. A ticket would be prudent.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I don't want to inconvenience you, but this issue needs proper attention. Can we create a ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I need to get back to work, but this issue is holding me up. Let's create a ticket for it.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'm not in a hurry, but I'd like to ensure this gets resolved eventually. A ticket sounds good.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've seen progress with your help, but there's more to be done. Shall we create a ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I appreciate your assistance, but I think it's time to escalate this. Create a support ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to be kept in the loop regarding the resolution. Can we start a ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to ensure this issue doesn't go unnoticed. A support ticket would be great.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'm grateful for your help, but I believe a ticket will help resolve this faster.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to have a reference number for this issue. Let's create a ticket, shall we?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've been patient, but I think it's time for formal documentation. Create a support ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've tried troubleshooting, but it's not working. Can we start a ticket to look into this?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I understand you're doing your best, but I'd like to ensure this is addressed properly. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I don't want to bother you further, but I believe a ticket will help expedite this.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'm concerned about the impact of this issue. Let's create a support ticket for it.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've had similar issues in the past, and a ticket was the best solution. Can we do that again?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure this doesn't happen again. Creating a ticket seems like a good step.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I appreciate your assistance, but it's time to take this to the next level. Create a ticket, please.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've had ongoing issues, and I think a ticket is the best way to address them. Shall we?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I'd like to ensure this is resolved promptly. Can we create a support ticket?",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I've done some troubleshooting on my end, but it's not working. Let's create a ticket for a thorough look.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I want to make sure my concern is noted and addressed. A support ticket will help with that.",
+    "intent": "createTicket"
+  },
+  {
+    "message": "I believe formal documentation is needed for this issue. Create a ticket, please.",
+    "intent": "createTicket"
+  }
+]

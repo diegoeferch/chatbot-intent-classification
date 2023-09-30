@@ -1,0 +1,422 @@
+[
+  {
+    "message": "I'm having trouble logging into my account.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "My password isn't working. Can you help?",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't access my order history on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "The website is displaying an error message.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing slow loading times on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "My account balance is incorrect.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not receiving email notifications from your service.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "The mobile app crashes when I open it.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't add items to my shopping cart.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "My payment is not going through on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "The website is not displaying the correct prices.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting an 'out of memory' error on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the product I'm looking for on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "My account settings are not saving properly.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm unable to complete the checkout process.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "The app freezes when I try to make a purchase.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm seeing incorrect information on my profile.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't upload images on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "My subscription is not active even though I paid.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering 404 errors on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm unable to update my shipping address.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting a 'server not found' error on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't reset my password. It's not sending me the email.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "My recent transactions are not showing up on my account.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing constant crashes on the mobile app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't update my billing information.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to apply the discount code at checkout.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm receiving an 'access denied' message on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't load product images on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm unable to search for items on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting an 'unexpected error' message when I try to submit a form.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't view my purchase history.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having issues with the checkout page loading properly.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not receiving order confirmation emails.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't access my support tickets.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm seeing duplicate charges on my account.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the search functionality on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't submit a contact form on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not receiving password reset instructions.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having difficulty navigating the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't add items to my wishlist.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing a '404 not found' error on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm unable to view my order details.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting a 'page not responding' message on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't update my payment method.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the product images loading on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to track my order.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing a '500 internal server error' on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't change my notification settings.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the knowledge base.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not receiving responses to my support tickets.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the filters on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm unable to complete the registration process.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the FAQ section on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the chat feature not loading.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to change my profile picture.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'server timeout' errors on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing my saved items.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app crashing on startup.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the chat support option on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not loading properly.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the order placement process.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'invalid credentials' errors when I try to sign in.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the settings page.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not responding.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the search bar on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not displaying images.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the checkout process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'network connection error' messages on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the contact us page.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not loading properly.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the contact support button on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not updating my profile information.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the payment process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'invalid URL' errors on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the help center.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not syncing my data.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the troubleshooting guide on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not loading my order history.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the registration process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'browser compatibility' warnings on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the account settings.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not displaying product details.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the error message description on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not allowing me to submit feedback.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the password reset process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'page not found' errors on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the order tracking page.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not displaying product reviews.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the chat support hours on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not recognizing my login credentials.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the order cancellation process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'payment declined' messages on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the returns and refunds page.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not displaying product availability.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the contact information for customer support on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not processing my order.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the login process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'access denied' errors on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm having trouble accessing the product categories.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm encountering issues with the app not displaying promotions.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I can't find the search functionality on the website.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm experiencing issues with the website not loading my shopping cart.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm not able to complete the password change process on the app.",
+    "intent": "troubleshooting"
+  },
+  {
+    "message": "I'm getting 'session expired' messages on the website.",
+    "intent": "troubleshooting"
+  }
+]
