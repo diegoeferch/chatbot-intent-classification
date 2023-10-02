@@ -1,11 +1,13 @@
+import os.path
+
 import mlflow
-import numpy as np
+import pickle
 from sklearn import linear_model
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 from evaluation import get_performance
-from features import oh_labels, tf_idf_vectorization
+from features import tf_idf_vectorization
 from text_preprocessing import normalize_corpus
+from config import MODELS_ROOT_PATH
 
 mlflow.set_tracking_uri('http://localhost:5000')
 
@@ -32,4 +34,7 @@ def train_logistic_regression(x_train, y_train, x_test, y_test):
         mlflow.log_metric('recall', recall)
         mlflow.log_metric('f1_score', f1_score)
         mlflow.sklearn.log_model(lr_model, 'model')
+
+        pickle_model_path = os.path.join(MODELS_ROOT_PATH, 'lr_model.pkl')
+        pickle.dump(lr_model, open(pickle_model_path, 'wb'))
 
