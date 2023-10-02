@@ -5,7 +5,7 @@ import pickle
 from sklearn import linear_model
 
 from evaluation import get_performance
-from features import tf_idf_vectorization
+from features import tf_idf_vectorization, vectorizer
 from text_preprocessing import normalize_corpus
 from config import MODELS_ROOT_PATH
 
@@ -35,6 +35,11 @@ def train_logistic_regression(x_train, y_train, x_test, y_test):
         mlflow.log_metric('f1_score', f1_score)
         mlflow.sklearn.log_model(lr_model, 'model')
 
-        pickle_model_path = os.path.join(MODELS_ROOT_PATH, 'lr_model.pkl')
-        pickle.dump(lr_model, open(pickle_model_path, 'wb'))
+        # Saving model
+        with open(os.path.join(MODELS_ROOT_PATH, 'lr_model.pkl'), 'wb') as pkl_file:
+            pickle.dump(lr_model, pkl_file)
+
+        # Saving vectorizer
+        with open(os.path.join(MODELS_ROOT_PATH, 'lr_vectorizer.pkl'), 'wb') as pkl_file:
+            pickle.dump(vectorizer, pkl_file)
 

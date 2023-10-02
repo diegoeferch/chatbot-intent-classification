@@ -1,18 +1,20 @@
 import re
 import unicodedata
 
-import nltk
 import spacy
 import subprocess
 import contractions
 from typing import List
 from nltk.tokenize.toktok import ToktokTokenizer
 
+
 try:
     nlp = spacy.load("en_core_web_sm")
 except OSError:
     subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
     nlp = spacy.load("en_core_web_sm")
+
+
 
 tokenizer = ToktokTokenizer()
 
@@ -39,30 +41,33 @@ def remove_extra_spaces(text) -> str:
 
 
 def remove_accented_chars(text) -> str:
+    print(f'here: {text}')
     normalized_text = unicodedata.normalize('NFD', text)
     return ''.join(char for char in normalized_text if unicodedata.category(char) != 'Mn')
 
 
-def normalize_corpus(corpus: List[str]) -> List[str]:
+def normalize_intent(*intent: str) -> List[str]:
     normalized_corpus = []
+    for doc in list(intent):
+        print(f"doc: {doc}, type: {type(doc)}")
+        if isinstance(doc, str):
+            # Removing accented chars
+            doc = remove_accented_chars(doc)
 
-    for doc in corpus:
-        # Removing accented chars
-        doc = remove_accented_chars(doc)
+            # Expand contractions
+            doc = expand_contractions(doc)
 
-        # Expand contractions
-        doc = expand_contractions(doc)
+            # Lemmatization
+            doc = lemmatization(doc)
 
-        # Lemmatization
-        doc = lemmatization(doc)
+            # Leaving only letters in sentence
+            doc = remove_special_chars(doc)
 
-        # Leaving only letters in sentence
-        doc = remove_special_chars(doc)
+            doc = remove_extra_spaces(doc)
 
-        doc = remove_extra_spaces(doc)
-
-        doc = doc.lower()
-        doc = doc.strip()
-        normalized_corpus.append(doc)
+            doc = doc.lower()
+            doc = doc.strip()
+            print(f"doc end: {doc}")
+            normalized_corpus.append(doc)
 
     return normalized_corpus
