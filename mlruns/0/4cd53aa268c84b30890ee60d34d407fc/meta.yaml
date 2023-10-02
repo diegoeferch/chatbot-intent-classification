@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4cd53aa268c84b30890ee60d34d407fc/artifacts
+deleted_time: 1696247270411
+end_time: 1696245982613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4cd53aa268c84b30890ee60d34d407fc
+run_name: honorable-fawn-730
+run_uuid: 4cd53aa268c84b30890ee60d34d407fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696245982604
+status: 4
+tags: []
+user_id: diego

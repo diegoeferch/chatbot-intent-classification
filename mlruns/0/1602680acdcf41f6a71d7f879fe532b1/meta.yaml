@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1602680acdcf41f6a71d7f879fe532b1/artifacts
+deleted_time: 1696247270405
+end_time: 1696246134815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1602680acdcf41f6a71d7f879fe532b1
+run_name: aged-asp-726
+run_uuid: 1602680acdcf41f6a71d7f879fe532b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696246134803
+status: 4
+tags: []
+user_id: diego

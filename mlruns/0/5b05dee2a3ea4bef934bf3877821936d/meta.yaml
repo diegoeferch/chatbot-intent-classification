@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5b05dee2a3ea4bef934bf3877821936d/artifacts
+deleted_time: 1696247270412
+end_time: 1696245787195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5b05dee2a3ea4bef934bf3877821936d
+run_name: nebulous-gull-385
+run_uuid: 5b05dee2a3ea4bef934bf3877821936d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696245787186
+status: 4
+tags: []
+user_id: diego

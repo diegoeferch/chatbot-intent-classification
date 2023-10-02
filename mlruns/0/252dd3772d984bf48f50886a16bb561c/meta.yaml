@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/252dd3772d984bf48f50886a16bb561c/artifacts
+deleted_time: 1696247270407
+end_time: 1696246106575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 252dd3772d984bf48f50886a16bb561c
+run_name: unleashed-doe-101
+run_uuid: 252dd3772d984bf48f50886a16bb561c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696246106565
+status: 4
+tags: []
+user_id: diego

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ba337084d4da4023b0a9e5873ff0f55c/artifacts
+deleted_time: 1696247270415
+end_time: 1696245493335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba337084d4da4023b0a9e5873ff0f55c
+run_name: big-yak-437
+run_uuid: ba337084d4da4023b0a9e5873ff0f55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696245493322
+status: 4
+tags: []
+user_id: diego

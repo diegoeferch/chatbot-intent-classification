@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b4b29f03380f47dbb8e26168fc326896/artifacts
+deleted_time: 1696247270403
+end_time: 1696246586752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b4b29f03380f47dbb8e26168fc326896
+run_name: nosy-stork-385
+run_uuid: b4b29f03380f47dbb8e26168fc326896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696246586733
+status: 4
+tags: []
+user_id: diego

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c2d2575260cc4dea9e179c7c6c500cbc/artifacts
+deleted_time: 1696247270401
+end_time: 1696246906201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c2d2575260cc4dea9e179c7c6c500cbc
+run_name: righteous-kite-998
+run_uuid: c2d2575260cc4dea9e179c7c6c500cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696246906115
+status: 4
+tags: []
+user_id: diego
