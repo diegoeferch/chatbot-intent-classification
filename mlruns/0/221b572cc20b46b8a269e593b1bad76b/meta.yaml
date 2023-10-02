@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/221b572cc20b46b8a269e593b1bad76b/artifacts
+end_time: 1696247206638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 221b572cc20b46b8a269e593b1bad76b
+run_name: selective-midge-779
+run_uuid: 221b572cc20b46b8a269e593b1bad76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696247203030
+status: 3
+tags: []
+user_id: diego

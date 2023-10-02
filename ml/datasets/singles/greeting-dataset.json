@@ -1,0 +1,350 @@
+[
+  {
+    "message": "Hello!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi there!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Good morning!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, how are you?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, chatbot!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you help me?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Good day!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I need assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey there!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, support!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, is anyone there?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Good afternoon!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, chatbot, I have a question.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, chatbot!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, how can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm a customer.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, I need some help.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, what's your name?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I have an issue.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'd like to talk to a human.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, are you there?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, it's nice to meet you.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, can you assist me?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Good evening!",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, how's your day?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, what's up?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm having an issue.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, is this support?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I need some assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, can you help me?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm a customer and I need help.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I have a question.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm looking for assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, I'm new here.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, do you have a moment?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, chatbot, I require support.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm experiencing an issue.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, I need your help.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you assist me with something?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I'm having trouble.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I have a problem.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, I'm having an error.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you provide support?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I need help with an issue.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm seeking assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, can you assist me?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I have a query.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I require your assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you guide me?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, I'm looking for support.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm here for help.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, chatbot, I need your expertise.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you assist with a problem?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, I'm reaching out for support.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you provide assistance?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I need guidance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm facing an issue.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, can you help me out?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I need support for a problem.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, chatbot, I'm in a situation.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you assist with an inquiry?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, I'm here for your support.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I have a request.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I require your assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you guide me through something?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, I need some assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I have a concern.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, can you help me with a matter?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm seeking help.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, I need your guidance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you provide some insights?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, chatbot, I'm facing a problem.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you help me resolve an issue?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, it's nice to see you.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I'm reaching out for assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you provide some support?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, I'm here for your expertise.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you assist with a concern?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I need your help with something.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, I'm experiencing a challenge.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hey, can you assist me with an issue?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, it's good to chat with you.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hello, I'm looking for some assistance.",
+    "intent": "greeting"
+  },
+  {
+    "message": "Hi, can you provide some help?",
+    "intent": "greeting"
+  },
+  {
+    "message": "Greetings, I need your support.",
+    "intent": "greeting"
+  }
+]

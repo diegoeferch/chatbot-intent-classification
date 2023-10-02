@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bc579c0b986f4aad9d06eabfac860433/artifacts
+deleted_time: 1696247270401
+end_time: 1696246720836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bc579c0b986f4aad9d06eabfac860433
+run_name: treasured-squid-988
+run_uuid: bc579c0b986f4aad9d06eabfac860433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696246720826
+status: 4
+tags: []
+user_id: diego

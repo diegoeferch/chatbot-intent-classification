@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/97294ee261834930809f779b7a3d547d/artifacts
+deleted_time: 1696247270415
+end_time: 1696244464025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 97294ee261834930809f779b7a3d547d
+run_name: fortunate-shad-873
+run_uuid: 97294ee261834930809f779b7a3d547d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696244464013
+status: 4
+tags: []
+user_id: diego

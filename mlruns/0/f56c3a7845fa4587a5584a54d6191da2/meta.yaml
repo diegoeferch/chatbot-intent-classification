@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f56c3a7845fa4587a5584a54d6191da2/artifacts
+deleted_time: 1696247270394
+end_time: 1696247153843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f56c3a7845fa4587a5584a54d6191da2
+run_name: nimble-shrike-794
+run_uuid: f56c3a7845fa4587a5584a54d6191da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696247153762
+status: 4
+tags: []
+user_id: diego

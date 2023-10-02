@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/36b6a20971234fcc9c311582965b8b70/artifacts
+deleted_time: 1696247270417
+end_time: 1696244324317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 36b6a20971234fcc9c311582965b8b70
+run_name: defiant-crow-791
+run_uuid: 36b6a20971234fcc9c311582965b8b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696244324306
+status: 4
+tags: []
+user_id: diego

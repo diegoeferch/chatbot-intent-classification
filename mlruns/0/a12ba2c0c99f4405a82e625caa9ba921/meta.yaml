@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a12ba2c0c99f4405a82e625caa9ba921/artifacts
+deleted_time: 1696247270416
+end_time: 1696244498366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a12ba2c0c99f4405a82e625caa9ba921
+run_name: upset-smelt-938
+run_uuid: a12ba2c0c99f4405a82e625caa9ba921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696244498356
+status: 4
+tags: []
+user_id: diego

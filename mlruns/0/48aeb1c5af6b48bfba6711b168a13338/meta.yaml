@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/48aeb1c5af6b48bfba6711b168a13338/artifacts
+deleted_time: 1696247270414
+end_time: 1696245760908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 48aeb1c5af6b48bfba6711b168a13338
+run_name: welcoming-shrew-558
+run_uuid: 48aeb1c5af6b48bfba6711b168a13338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696245760900
+status: 4
+tags: []
+user_id: diego

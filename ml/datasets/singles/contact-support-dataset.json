@@ -1,0 +1,312 @@
+[
+  {
+    "message": "Can I speak to a real person?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd like to chat with a live agent, please.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there someone I can talk to?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to speak with a support representative.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How can I get in touch with a human?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you connect me to a person?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I require assistance from a real person.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a support team available?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Please transfer me to a support agent.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to talk to someone who can help.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I have a human assist me?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How do I get in contact with support?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd prefer to chat with a real person.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you connect me with a live representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to speak to a support team member.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a way to contact a support person?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Please transfer me to a human agent.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a support specialist.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I talk to a live human, please?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How can I reach a person for help?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I require assistance from a live representative.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I speak directly with a support agent?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to talk to someone right now.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a support line I can call?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you put me through to a support team?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a person for assistance.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How do I contact a live support agent?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd like to connect with a human being.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there someone I can talk to about this?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you transfer me to a support representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to speak with a live person, not a bot.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you connect me to a real agent?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a support person.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How can I get assistance from a human?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd prefer to speak with a support team member.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you please put me in touch with a person?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to talk to a human support agent.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a way to contact a live representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to connect with a real support specialist.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I talk to a live agent right now?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How can I reach a human for help?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I require assistance from a live person.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I speak directly with a support person?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to talk to someone immediately.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a support hotline I can call?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you please connect me to a support team?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a human for assistance.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How do I contact a live support representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd like to connect with a real human being.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there someone I can talk to for help?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you transfer me to a support agent, please?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to speak with a live person urgently.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you connect me to a real support team?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a human agent for assistance.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How can I get in touch with a support representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I require assistance from a live support specialist.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I speak directly with a support representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to talk to someone as soon as possible.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a support number I can call?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you please connect me to a support person?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a human agent for help.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How do I contact a live support specialist?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd like to connect with a real support team member.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there someone I can speak with regarding this issue?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you transfer me to a live support representative?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to speak with a human agent urgently.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you connect me to a support specialist?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a human for assistance right away.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How can I get in direct contact with support?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I require assistance from a live support team member.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can I speak directly with a support specialist?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I need to talk to someone immediately about this.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Is there a support chat I can join?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "Can you please connect me to a human support agent?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I want to reach a person for assistance as soon as possible.",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "How do I contact a live support team?",
+    "intent": "contactSupport"
+  },
+  {
+    "message": "I'd like to connect with a real support specialist urgently.",
+    "intent": "contactSupport"
+  }
+]
+
+
