@@ -3,7 +3,7 @@ import pickle
 from pathlib import Path
 import numpy as np
 
-from api.app.utils.features import normalize_intent
+from ..utils.features import normalize_intent
 
 
 async def format_intent(vectorizer, intent: str):
@@ -37,11 +37,9 @@ class MlModel(object):
 
     @classmethod
     async def predict_intent(cls, message: str):
-        print(f"message: {message}")
         if isinstance(message, str):
             formatted_intent = await format_intent(cls._vect, message)
             prediction_labels = cls._model.predict(formatted_intent)
             prediction_prob = cls._model.predict_proba(formatted_intent)
             pred_index = np.argmax(prediction_prob)
-            print(prediction_prob)
             return prediction_labels[0], prediction_prob[0, pred_index]

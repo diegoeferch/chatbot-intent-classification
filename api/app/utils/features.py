@@ -41,7 +41,6 @@ def remove_extra_spaces(text) -> str:
 
 
 def remove_accented_chars(text) -> str:
-    print(f'here: {text}')
     normalized_text = unicodedata.normalize('NFD', text)
     return ''.join(char for char in normalized_text if unicodedata.category(char) != 'Mn')
 
@@ -67,7 +66,6 @@ def normalize_intent(*intent: str) -> List[str]:
 
             doc = doc.lower()
             doc = doc.strip()
-            print(f"doc end: {doc}")
             normalized_corpus.append(doc)
 
     return normalized_corpus
